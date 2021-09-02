@@ -1,0 +1,12 @@
+.body{
+    margin: 0mm;
+    padding: 0mm;
+}
+
+.social{
+    display: inline-flex;
+    width: 48px;
+    position: fixed;
+    left: 47%;
+    top: 90%;
+}
